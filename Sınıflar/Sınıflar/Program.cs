@@ -6,13 +6,13 @@ namespace Sınıflar
     {
         static void Main(string[] args)
         {
-            Calisan c = new Calisan();
+            Calisan c = new Calisan("Özgün", "Şahin", 06015, "Çevre");
 
-            c.Ad = "Özgün";
-            c.Soyad = "Şahin";
-            c.Departman = "Çevre";
-            c.No = 06015;
-
+            //c.Ad = "Özgün";
+            //c.Soyad = "Şahin";
+            //c.Departman = "Çevre";
+            //c.No = 06015;
+             
             c.CasisanBilgileri();
 
             Calisan c1 = new Calisan();
@@ -23,6 +23,10 @@ namespace Sınıflar
             c1.No = 06016;
 
             c1.CasisanBilgileri();
+
+            Calisan c3 = new Calisan("Mehmet", "Şahin");
+
+            c3.CasisanBilgileri();
 
 
 
@@ -35,6 +39,28 @@ namespace Sınıflar
         public string Soyad;
         public int No;
         public string Departman;
+
+        
+
+        public Calisan(string ad, string soyad, int no, string departman) // parametre isteyen kurucu metot
+        {
+            Ad = ad;
+            Soyad = soyad;
+            No = no;
+            Departman = departman;
+        }
+
+        public Calisan(string ad, string soyad) // parametre isteyen kurucu metot
+        {
+            Ad = ad;
+            Soyad = soyad;
+            
+        }
+
+
+
+        public Calisan() { } // parametre istemeyen kurucu metot
+
 
 
         public void CasisanBilgileri()

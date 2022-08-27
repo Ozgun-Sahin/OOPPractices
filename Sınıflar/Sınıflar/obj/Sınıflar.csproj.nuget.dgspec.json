@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozgun\\Desktop\\ConsolePractices\\Sınıflar\\Sınıflar\\Sınıflar.csproj": {}
+    "C:\\Users\\ozgun\\Desktop\\OOPPractices\\Sınıflar\\Sınıflar\\Sınıflar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozgun\\Desktop\\ConsolePractices\\Sınıflar\\Sınıflar\\Sınıflar.csproj": {
+    "C:\\Users\\ozgun\\Desktop\\OOPPractices\\Sınıflar\\Sınıflar\\Sınıflar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozgun\\Desktop\\ConsolePractices\\Sınıflar\\Sınıflar\\Sınıflar.csproj",
+        "projectUniqueName": "C:\\Users\\ozgun\\Desktop\\OOPPractices\\Sınıflar\\Sınıflar\\Sınıflar.csproj",
         "projectName": "Sınıflar",
-        "projectPath": "C:\\Users\\ozgun\\Desktop\\ConsolePractices\\Sınıflar\\Sınıflar\\Sınıflar.csproj",
+        "projectPath": "C:\\Users\\ozgun\\Desktop\\OOPPractices\\Sınıflar\\Sınıflar\\Sınıflar.csproj",
         "packagesPath": "C:\\Users\\ozgun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozgun\\Desktop\\ConsolePractices\\Sınıflar\\Sınıflar\\obj\\",
+        "outputPath": "C:\\Users\\ozgun\\Desktop\\OOPPractices\\Sınıflar\\Sınıflar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ozgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
