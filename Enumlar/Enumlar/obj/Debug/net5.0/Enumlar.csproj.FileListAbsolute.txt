@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\bin\Debug\net5.0\Enumlar.exe
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\bin\Debug\net5.0\Enumlar.deps.json
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\bin\Debug\net5.0\Enumlar.runtimeconfig.json
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\bin\Debug\net5.0\Enumlar.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\bin\Debug\net5.0\Enumlar.dll
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\bin\Debug\net5.0\Enumlar.pdb
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\Enumlar.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\Enumlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\Enumlar.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\Enumlar.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\Enumlar.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\Enumlar.dll
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\refint\Enumlar.dll
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\Enumlar.pdb
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\Enumlar.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\OOPPractices\Enumlar\Enumlar\obj\Debug\net5.0\ref\Enumlar.dll

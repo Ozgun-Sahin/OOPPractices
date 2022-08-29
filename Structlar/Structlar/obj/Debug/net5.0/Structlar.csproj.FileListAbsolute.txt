@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\bin\Debug\net5.0\Structlar.exe
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\bin\Debug\net5.0\Structlar.deps.json
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\bin\Debug\net5.0\Structlar.runtimeconfig.json
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\bin\Debug\net5.0\Structlar.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\bin\Debug\net5.0\Structlar.dll
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\bin\Debug\net5.0\Structlar.pdb
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\Structlar.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\Structlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\Structlar.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\Structlar.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\Structlar.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\Structlar.dll
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\refint\Structlar.dll
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\Structlar.pdb
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\Structlar.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\OOPPractices\Structlar\Structlar\obj\Debug\net5.0\ref\Structlar.dll
