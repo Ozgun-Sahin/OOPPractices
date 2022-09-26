@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\Kalitim.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\Kalitim.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\Kalitim.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\bin\Debug\net5.0\Kalitim.exe
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\bin\Debug\net5.0\Kalitim.deps.json
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\bin\Debug\net5.0\Kalitim.runtimeconfig.json
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\bin\Debug\net5.0\Kalitim.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\bin\Debug\net5.0\Kalitim.dll
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\bin\Debug\net5.0\Kalitim.pdb
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\Kalitim.dll
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\refint\Kalitim.dll
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\Kalitim.pdb
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\Kalitim.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\OOPPractices\Kalitim\Kalitim\obj\Debug\net5.0\ref\Kalitim.dll

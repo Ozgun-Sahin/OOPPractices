@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\bin\Debug\net5.0\Arayüzler.exe
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\bin\Debug\net5.0\Arayüzler.deps.json
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\bin\Debug\net5.0\Arayüzler.runtimeconfig.json
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\bin\Debug\net5.0\Arayüzler.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\bin\Debug\net5.0\Arayüzler.dll
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\bin\Debug\net5.0\Arayüzler.pdb
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\Arayüzler.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\Arayüzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\Arayüzler.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\Arayüzler.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\Arayüzler.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\Arayüzler.dll
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\refint\Arayüzler.dll
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\Arayüzler.pdb
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\Arayüzler.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\OOPPractices\Arayüzler\Arayüzler\obj\Debug\net5.0\ref\Arayüzler.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ozgun\\Desktop\\ConsolePractices\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+      "projectUniqueName": "C:\\Users\\ozgun\\Desktop\\OOPPractices\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
       "projectName": "Encapsulation",
-      "projectPath": "C:\\Users\\ozgun\\Desktop\\ConsolePractices\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+      "projectPath": "C:\\Users\\ozgun\\Desktop\\OOPPractices\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
       "packagesPath": "C:\\Users\\ozgun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ozgun\\Desktop\\ConsolePractices\\Encapsulation\\Encapsulation\\obj\\",
+      "outputPath": "C:\\Users\\ozgun\\Desktop\\OOPPractices\\Encapsulation\\Encapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ozgun\\AppData\\Roaming\\NuGet\\NuGet.Config",

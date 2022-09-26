@@ -1,0 +1,16 @@
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\bin\Debug\net5.0\ArayüzÖrnek.exe
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\bin\Debug\net5.0\ArayüzÖrnek.deps.json
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\bin\Debug\net5.0\ArayüzÖrnek.runtimeconfig.json
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\bin\Debug\net5.0\ArayüzÖrnek.runtimeconfig.dev.json
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\bin\Debug\net5.0\ArayüzÖrnek.dll
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\bin\Debug\net5.0\ArayüzÖrnek.pdb
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\ArayüzÖrnek.csproj.AssemblyReference.cache
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\ArayüzÖrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\ArayüzÖrnek.AssemblyInfoInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\ArayüzÖrnek.AssemblyInfo.cs
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\ArayüzÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\ArayüzÖrnek.dll
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\refint\ArayüzÖrnek.dll
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\ArayüzÖrnek.pdb
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\ArayüzÖrnek.genruntimeconfig.cache
+C:\Users\ozgun\Desktop\OOPPractices\ArayüzÖrnek\ArayüzÖrnek\obj\Debug\net5.0\ref\ArayüzÖrnek.dll
